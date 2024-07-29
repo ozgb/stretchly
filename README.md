@@ -100,6 +100,8 @@ For Debian/Ubuntu and derivates you could also try this `apt` repository: `deb [
 
 Please see [http://electron.atom.io/docs/api/tray/](http://electron.atom.io/docs/api/tray/) for Electron's Tray Linux specifics.
 
+To use *Stretchly* in Gnome, you must install an extension to enable the tray: [AppIndicator and KStatusNotifierItem Support](https://extensions.gnome.org/extension/615/appindicator-support/)
+
 For Natural breaks, you might need some packages too (`libxss-dev`).
 
 If *Stretchly* is not starting, you might need to run:
@@ -543,6 +545,7 @@ You can help to translate Stretchly on [Weblate](https://hosted.weblate.org/enga
 - Nai You-Ran, [@skyran1278](https://github.com/skyran1278)
 - Lorenzo García Rivera, @lorenzogrv, [lorenzogrv.tech](https://lorenzogrv.tech)
 - Aleh, [@alehpa](https://github.com/alehpa)
+- Oscar Bailey, [@ozgb](https://github.com/ozgb)
 
 Also see Github's list of [contributors](https://github.com/hovancik/stretchly/graphs/contributors).
 
